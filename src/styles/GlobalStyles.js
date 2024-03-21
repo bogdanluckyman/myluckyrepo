@@ -18,6 +18,9 @@ a:hover {
 text-decoration: underline; 
 }
 
+li {
+    list-style: none;
+}
 
 img {
 max-width: 100%;
