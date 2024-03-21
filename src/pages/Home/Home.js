@@ -6,7 +6,7 @@ const Home = () => {
       <ul>
         <li>
           <Box>
-            <img src="../../images/van.jpg" alt="First van" />
+            <img src="/images/van.jpg" alt="First van" />
             <p></p>
           </Box>
         </li>
